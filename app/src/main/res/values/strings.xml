@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppPantallasKotlin</string>
+    <string name="txt_url">Dame una URL</string>
+    <string name="btn_ver">Visitar</string>
+    <string name="btn_volver">Volver</string>
+</resources>
